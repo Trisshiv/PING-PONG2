@@ -1,0 +1,15 @@
+.heading {
+    width: 99.9%;
+    line-height: 2;
+    text-align: left;
+}
+
+.heading button {
+    float: right;
+    border-color: white;
+}
+
+#status {
+    border-color: grey;
+    box-shadow: 5px 5px 5px grey;
+}
