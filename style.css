@@ -13,3 +13,9 @@
     border-color: grey;
     box-shadow: 5px 5px 5px grey;
 }
+
+ol {
+    text-align: left;
+    color: black;
+    font-size: 17px;
+}
